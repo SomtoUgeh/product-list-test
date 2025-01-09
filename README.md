@@ -32,16 +32,6 @@ Create a product listing application that demonstrates your React skills. The ap
    - Add loading states and error handling
    - Implement smooth transitions and hover effects
 
-### Bonus Points
-
-- Add unit tests
-- Implement pagination or infinite scroll
-- Add more sorting options
-- Implement a shopping cart functionality
-- Add product detail view
-- Improve accessibility
-- Add TypeScript types/interfaces
-
 ### Evaluation Criteria
 
 1. **Code Quality**
